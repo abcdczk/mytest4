@@ -6,7 +6,6 @@ public class User {
     private int age;
 
     public static void main(String[] args) {
-        System.out.println("ghhhhhhhhhhhhhh");
 
         System.out.println("你好世界");
     }
